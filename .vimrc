@@ -21,7 +21,7 @@ set cursorline
 set number
 set noerrorbells
 set visualbell
-set mouse=a
+set mouse=v
 set title
 
 set history=1000
