@@ -18,6 +18,8 @@ set lazyredraw
 set laststatus=2
 set ruler
 set cursorline
+hi CursorLine term=bold cterm=bold guibg=Grey40
+
 set number
 set noerrorbells
 set visualbell
